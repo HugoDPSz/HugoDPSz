@@ -1,6 +1,6 @@
 ### Ólá! Eu sou o Hugo Souza 👋
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDPSz&show_icons=true&theme=radical&rank_icon=github)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoDPSz&show_icons=true&theme=transparent&rank_icon=github)
 
 ## Tecnologias que estou me aprofundando
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -9,4 +9,4 @@
 
 Estudante de ciências da computação, apaixonado por tecnologia e estou sempre em busca de me desenvolver nessa área e aprender mais.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDPSz&layout=donut&theme=radical)](https://github.com/HugoDPSz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDPSz&layout=donut&theme=transparent)](https://github.com/HugoDPSz/github-readme-stats)
