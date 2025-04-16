@@ -30,7 +30,7 @@ Atualmente, estou me aprofundando em tecnologias voltadas para o desenvolvimento
 
 Se quiser trocar ideias, colaborar em projetos ou apenas conversar sobre tecnologia, estou à disposição:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hugo-souza-1987b835a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-souza-1987b835a)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hps.4002@email.com)
 
 ---
